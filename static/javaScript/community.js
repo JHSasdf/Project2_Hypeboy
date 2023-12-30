@@ -79,17 +79,6 @@ function createPageButton(text, currentPage) {
 showPage(1);
 
 
-function detailCommunityPage(postNumber) {
-  axios({
-    method: "post",
-    url: "/detailCommunityPage",
-    data: { number: parseInt(postNumber) }, // 객체 형태로 전달
-  }).then((result) => {
-    location.href =
-      "/readCommunity?number=" + JSON.stringify(result.data.number);
-  });
-}
-
 // 글쓰기 페이지 이동
 function writeCommunity() {
   if (! pageUserid) {
@@ -117,7 +106,7 @@ async function logout(event) {
 }
 
 // 글 조회 시 세부 페이지 이동
-function {
+function detailCommunityPage(postNumber) {
   axios({
     method: "post",
     url: "/detailCommunityPage",
