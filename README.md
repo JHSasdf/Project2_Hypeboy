@@ -77,7 +77,7 @@ $ npm install
 
 |키오스크|
 |------|
-|<img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/76ea9bd6-529b-44fa-a2e2-dab7d574218e" width= "450" height= "400"/> <img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/e511043e-769a-429d-bcb2-24370acb3f62" width= "450" height= "400"/> |
+|<img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/76ea9bd6-529b-44fa-a2e2-dab7d574218e" width= "450" height= "400"/> | <img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/e511043e-769a-429d-bcb2-24370acb3f62" width= "450" height= "400"/> |
 
 |게시판|
 |------|
