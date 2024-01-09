@@ -38,6 +38,14 @@ $ cd project_2_hypeboy
 $ npm install
 ```
 
+**Manual**
+*sign up can be possible
+|type|id|pw|
+|----|--|------|
+|guest|aaaa|111111|
+|administer|admin|111111|
+
+
 ## Stacks
 **Environment** 
 
@@ -73,19 +81,19 @@ $ npm install
 
 |단어페이지|
 |------|
-|<img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/fe396eb9-243a-4929-99c3-50b88d11c013" width= "450" height= "400"/> <img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/039856f8-43ca-4b82-ae76-0c8bb5a21851" width= "450" height= "400"/> |
+|<img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/fe396eb9-243a-4929-99c3-50b88d11c013" width= "300" height= "300"/> <img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/039856f8-43ca-4b82-ae76-0c8bb5a21851" width= "300" height= "300"/> |
 
 |키오스크|
 |------|
-|<img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/76ea9bd6-529b-44fa-a2e2-dab7d574218e" width= "450" height= "400"/> | <img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/e511043e-769a-429d-bcb2-24370acb3f62" width= "450" height= "400"/> |
+|<img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/76ea9bd6-529b-44fa-a2e2-dab7d574218e" width= "300" height= "300"/> | <img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/e511043e-769a-429d-bcb2-24370acb3f62" width= "300" height= "300"/> |
 
 |게시판|
 |------|
-|<img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/fb2064c9-2208-4d31-91c7-d63b30ee1cb3" width= "450" height= "400"/> <img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/17756e36-7153-4545-b7e3-c9e94cca1725" width= "450" height= "400"/> |
+|<img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/fb2064c9-2208-4d31-91c7-d63b30ee1cb3" width= "300" height= "300"/> <img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/17756e36-7153-4545-b7e3-c9e94cca1725" width= "300" height= "300"/> |
 
 |문화생활|
 |------|
-|<img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/f57bc674-9844-4f9c-90b3-17165eaaa5ba" width= "450" height= "400"/> <img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/26a9cd37-86bd-4472-af91-a975b09189d5" width= "450" height= "400"/> |
+|<img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/f57bc674-9844-4f9c-90b3-17165eaaa5ba" width= "300" height= "300"/> <img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/26a9cd37-86bd-4472-af91-a975b09189d5" width= "300" height= "300"/> |
 
 
 ## API Address
@@ -97,13 +105,16 @@ $ npm install
 
 
 ## 주요 기능
+
 * 유저가 단어 신청, 관리자 승인 후, 단어를 db에 등록하여 등록된 단어를 랜덤으로 타자연습
 * 키오스크 게임을 통해 키오스크 사용법 숙달
 * 게시판 기능
 * open API를 통해 도서관, 축제 등의 정보 제공
 
 ## 추가 사항
+
 프로젝트 회고록 블로그 https://kimsunji.tistory.com/27
+
 **추후 리팩토링 예정**
 
 
