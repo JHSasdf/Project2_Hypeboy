@@ -1,7 +1,7 @@
 # Project 40+
 개발기간: 12월 16일 ~ 12월 30일 (2주)
-![logo](https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/041b185e-e284-42e4-86bc-d6f78666a612)
 
+<img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/041b185e-e284-42e4-86bc-d6f78666a612" widht="400" height="350" />
 ## 배포 주소
 http://3.36.62.47
 
@@ -13,6 +13,8 @@ http://3.36.62.47
 |최진|프론트엔드|메인 페이지, 문화생활 페이지, 헤더|
 |최용헌|백엔드|게시판 기능 구현, db구축|
 |선지훈|백엔드|회원가입, 로그인, 마이페이지 기능 구축, MZ어 관련 백엔드 db구축, 프론트 백 오류 수정, 오류페이지 등 미들웨어 구축, 서버구축, 배포|
+
+<img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/31678448-19bb-4bda-ac06-956c491a468d" width="900" height="700"/>
 
 ## 프로젝트 소개
 This project is for upper 40 who is having struggle with electronics like kiosk or something else.
