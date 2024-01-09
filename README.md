@@ -69,7 +69,7 @@ $ npm install
 
 |메인페이지|
 |------|
-|<img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/f38c68f7-bac1-489d-9661-3f7ef8789db7" width= "450" height= "400"/> <img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/b0b2f27d-2002-4065-af28-a951ffab4195" width= "450" height= "400"/> |
+|<img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/f38c68f7-bac1-489d-9661-3f7ef8789db7" width= "300" height= "300"/> <img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/b0b2f27d-2002-4065-af28-a951ffab4195" width= "300" height= "300"/> |
 
 |단어페이지|
 |------|
