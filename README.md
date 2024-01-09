@@ -26,9 +26,11 @@ For building and running the application you need:
 * npm 10.1.0
 
 **Installation**
+```
 $ git clone https://github.com/JHSasdf/project_2_hypeboy.git
 $ cd project_2_hypeboy
 $ npm install
+```
 
 ## Stacks
 **Environment** 
