@@ -2,6 +2,7 @@
 개발기간: 12월 16일 ~ 12월 30일 (2주)
 
 <img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/041b185e-e284-42e4-86bc-d6f78666a612" widht="400" height="350" />
+
 ## 배포 주소
 http://3.36.62.47
 
