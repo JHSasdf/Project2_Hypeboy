@@ -88,7 +88,12 @@ $ npm install
 
 |키오스크|
 |------|
-|<img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/76ea9bd6-529b-44fa-a2e2-dab7d574218e" width= "300" height= "300"/> | <img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/e511043e-769a-429d-bcb2-24370acb3f62" width= "300" height= "300"/> |
+|<img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/76ea9bd6-529b-44fa-a2e2-dab7d574218e" width= "300" height= "300"/>  <img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/e511043e-769a-429d-bcb2-24370acb3f62" width= "300" height= "300"/> |
+
+|관리자 페이지|
+|------|
+|<img src="https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/e08ebe9e-50ae-42bc-8393-e88c5d135379" width= "300" height= "300"/> |
+
 
 |게시판|
 |------|
