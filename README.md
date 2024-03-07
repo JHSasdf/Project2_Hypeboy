@@ -110,6 +110,8 @@ $ npm install
 ## 프로젝트 구조도
 ![image](https://github.com/JHSasdf/project_2_hypeboy/assets/146299597/4ce141c3-06b9-4f2d-bfee-a7a217a843f4)
 
+## DB구조도
+![image](https://github.com/JHSasdf/Project2_Hypeboy/assets/146299597/7566159b-f5fc-4afc-a418-76ad732fc73e)
 
 
 ## 주요 기능
